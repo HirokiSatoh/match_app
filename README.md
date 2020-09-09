@@ -1,24 +1,16 @@
-# README
+# 簡単なマッチングアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##サイト概要
+ランダムで販売されるグッズを推しのグッズと物々交換アプリ
 
-Things you may want to cover:
+###作ろうと思ったきっかけ
+Twitterでグッズ交換希望というツイートをよく目にするので
+ライブグッズや付録など物々交換が無料で出来たらいいなと思った
 
-* Ruby version
+###ターゲットユーザー
+日本国内の何かにハマっている人たち
 
-* System dependencies
+###利用シーン
+何がでるかわからないグッズで推しが引けなかった
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##設計書
