@@ -14,3 +14,7 @@ Twitterでグッズ交換希望というツイートをよく目にするので
 何がでるかわからないグッズで推しが引けなかった
 
 ##設計書
+###詳細設計
+
+###機能一覧
+https://docs.google.com/spreadsheets/d/1TmDVAmcMKQ-a0LYO_U-9w12U9Wa2isLHxiFmddRzNZ4/edit?usp=sharing
